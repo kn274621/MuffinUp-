@@ -24,11 +24,17 @@
 	<!-- Exclude build artifacts and Unity project -->
 	<ItemGroup>
 	  <Compile Remove="content\**" />
-	  <Compile Remove="UnityProject\**" />
+	  <Compile Remove="MuffinUp\**" />
+	  <Compile Remove="bin\**" />
+	  <Compile Remove="obj\**" />
 	  <EmbeddedResource Remove="content\**" />
-	  <EmbeddedResource Remove="UnityProject\**" />
+	  <EmbeddedResource Remove="MuffinUp\**" />
+	  <EmbeddedResource Remove="bin\**" />
+	  <EmbeddedResource Remove="obj\**" />
 	  <None Remove="content\**" />
-	  <None Remove="UnityProject\**" />
+	  <None Remove="MuffinUp\**" />
+	  <None Remove="bin\**" />
+	  <None Remove="obj\**" />
 	</ItemGroup>
 	
 	<!-- Exclude workshop metadata -->
