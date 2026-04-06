@@ -31,6 +31,6 @@ These are game objects that will be used in some form of preparation of the muff
 ## Modifiable Game Objects
 These are game objects that might not be used in their original form, but can be slightly modified for our use in the game.
 
-- Cranberries -> Blueberries
-- Cookie Tray -> Muffin Tin
-- Cupcakes -> Muffins
+- Cranberries -> Blueberries (both assets and code)
+- Cookie Tray -> Muffin Tin (both assets and code)
+- Cupcakes -> Muffins (code)
